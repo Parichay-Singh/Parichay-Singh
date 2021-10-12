@@ -1,1 +1,1 @@
-[![Parichay's GitHub Banner](./src/GH and LI.png)](https://www.linkedin.com/in/parichaysingh/)
+[![Parichay's GitHub Banner](./src/banner.png)](https://www.linkedin.com/in/parichaysingh/)
