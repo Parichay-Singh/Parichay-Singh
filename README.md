@@ -9,8 +9,8 @@ I'm Parichay Singh. I'm currently a junior pursuing my undergraduate at VIT, Vel
 ![trophy](https://github-profile-trophy.vercel.app/?username=Parichay-Singh&theme=nord&title=Joined2020,Stars,Commit,Followers,PullRequest,Repositories&align=center)
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/parichaysingh/"><img src="./src/linkedin.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:parichaysingh2000@gmail.com"><img src="./src/gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@parichaysingh2000"><img src="./src/medium.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discordapp.com/users/691703109554143372"><img src="./src/discord.png" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
