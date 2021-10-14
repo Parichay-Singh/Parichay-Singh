@@ -6,4 +6,4 @@
 # Hey There <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="50">
 I'm Parichay Singh. I'm currently a junior pursuing my undergraduate at VIT, Vellore. I'm skilled in Data Science and Machine Learning, and am currently learning Data Structures and Algorithms.  I am also currently learning MLOps and Containerized Deployment of applications.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Parichay-Singh&theme=nord&title=MultiLanguage,Stars,Commit,Followers,PullRequest,Repositories)
+![trophy](https://github-profile-trophy.vercel.app/?username=Parichay-Singh&theme=nord&title=MultiLanguage,Stars,Commit,Followers,PullRequest,Repositories&align=center)
