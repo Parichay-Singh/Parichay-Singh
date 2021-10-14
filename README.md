@@ -1,8 +1,8 @@
 [![Parichay's GitHub Banner](./src/banner.png)](https://www.linkedin.com/in/parichaysingh/)
 ![View Counts](https://komarev.com/ghpvc/?username=your-github-Parichay-Singh&color=red)
 
-# Welcome
-<iframe src="https://giphy.com/embed/H0meSxxaH5qBwJmQPt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/fire-dogo-dog-hitting-a-pan-H0meSxxaH5qBwJmQPt">via GIPHY</a></p>
+# Welcome <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="50">
+I'm Parichay Singh. I'm currently a junior pursuing my undergraduate at VIT, Vellore. I'm skilled in Data Science and Machine Learning, and am currently learning Data Structures and Algorithms.  I am also currently learning MLOps and Containerized Deployment of applications.
 
 ![Parichay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parichay-Singh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parichay-Singh)
