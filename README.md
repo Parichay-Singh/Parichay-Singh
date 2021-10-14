@@ -8,6 +8,7 @@ I'm Parichay Singh. I'm currently a junior pursuing my undergraduate at VIT, Vel
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Parichay-Singh&theme=nord&title=Joined2020,Stars,Commit,Followers,PullRequest,Repositories&align=center)
 
+# Connect with me!  <img src="https://media.giphy.com/media/TEILCythSScYyaaEDK/giphy.gif" width="70">
 <p align="left">
 <a href="https://www.linkedin.com/in/parichaysingh/"><img src="./src/linkedin.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:parichaysingh2000@gmail.com"><img src="./src/gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
