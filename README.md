@@ -7,3 +7,10 @@
 I'm Parichay Singh. I'm currently a junior pursuing my undergraduate at VIT, Vellore. I'm skilled in Data Science and Machine Learning, and am currently learning Data Structures and Algorithms.  I am also currently learning MLOps and Containerized Deployment of applications.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Parichay-Singh&theme=nord&title=Joined2020,Stars,Commit,Followers,PullRequest,Repositories&align=center)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
